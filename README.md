@@ -59,9 +59,14 @@ This project contains 2 types of calculator models:
 ## HARDWARE REQUIREMENTS
 *Links provided for the exact hardware I used*
 -------------------------------------------------
-1) 1x Raspberry pi pico (2 x pico's if you are planning to make the expansion module)
-2) 20 Low profile mechanical keyboard switches (https://it.aliexpress.com/item/1005005783406100.html?spm=a2g0o.order_list.order_list_main.5.663e3696NJjg2b&gatewayAdapt=glo2ita)
+1) 1x Raspberry pi pico (2 x pico's if you are planning to make the expansion module) (https://it.aliexpress.com/item/1005008574488243.html?spm=a2g0o.order_list.order_list_main.47.663e3696NJjg2b&gatewayAdapt=glo2ita)
+   
+2) 20x Low profile mechanical keyboard switches (https://it.aliexpress.com/item/1005005783406100.html?spm=a2g0o.order_list.order_list_main.5.663e3696NJjg2b&gatewayAdapt=glo2ita)
 
-3) 16x2 LCD display with an I2C module (https://it.aliexpress.com/item/1005006100081942.html?spm=a2g0o.order_list.order_list_main.53.663e3696NJjg2b&gatewayAdapt=glo2ita
+3) 1x 16x2 LCD display with an I2C module (https://it.aliexpress.com/item/1005006100081942.html?spm=a2g0o.order_list.order_list_main.53.663e3696NJjg2b&gatewayAdapt=glo2ita
 
 4) 4X 18650 AA Battery case (https://it.aliexpress.com/item/1005006117644933.html?spm=a2g0o.cart.0.0.20b218fcTmu9Ou&mp=1&pdp_npi=6%40dis%21EUR%21EUR%203.37%21EUR%201.62%21%21EUR%200.60%21%21%21%40211b618e17730842754156541e854e%2112000035829498633%21ct%21IT%212963873461%21%211%210%21&gatewayAdapt=glo2ita)
+
+5) Male and Female USB C connectors (Only need for the Calculator with the expansion module) (https://it.aliexpress.com/item/1005004301569975.html?spm=a2g0o.order_list.order_list_main.23.663e3696NJjg2b&gatewayAdapt=glo2ita)
+
+6) 22 AWG electrical wires (https://it.aliexpress.com/item/1005008664132121.html?spm=a2g0o.order_list.order_list_main.41.663e3696NJjg2b&gatewayAdapt=glo2ita)
