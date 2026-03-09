@@ -4,7 +4,7 @@
 *TABLE OF CONTENT*
 -------------------------------------------------
 1) [INTRODUCTION](#introduction)
-2) [FEATURES](#features-******************************************)
+2) [FEATURES](#features)
    
     • [FEATURES OF THE CALCULATOR WITHOUT THE EXPANSION MODULE](#features-of-the-calculator-without-the-expansion-module)
    
@@ -34,7 +34,8 @@ This project contains 2 types of calculator models:
 2) The second model contains a seperate expansion module that can be plugged in to the usb c port that can be found on the bottom of the calculator
 
 -------------------------------------------------------------------------
-## FEATURES ******************************************
+*************************************************************************************************************************************
+## FEATURES 
 
 ## FEATURES OF THE CALCULATOR WITHOUT THE EXPANSION MODULE
 -------------------------------------------------------------------------
