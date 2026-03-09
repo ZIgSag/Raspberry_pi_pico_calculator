@@ -49,6 +49,7 @@ This project contains 2 types of calculator models:
 ## FEATURES OF THE CALCULATOR WITH THE EXPANSION MODULE
 ------------------------------------------------------------------------
 1) All functions of the regular calculator
+   
    **MAIN FEATURE**
 2) Contains a seperate module which can be plugged in to your regular calculator to add more functionality
    (Inside this module contains a separate raspberry pi pico running its own code. but is connected to communicate in serial with your main calculator)
