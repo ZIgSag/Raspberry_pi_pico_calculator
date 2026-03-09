@@ -1,18 +1,19 @@
 # Raspberry_pi_pico_calculator
+*STILL A WORK IN PROGRESS*
+-------------------------------------------------
+*TABLE OF CONTENT*
+-------------------------------------------------
+
+
+
+
+
+
+
+
+
 -------------------------------------------------
 *INTRODUCTION*
--------------------------------------------------
-
-
-
-
-
-
-
-
-
--------------------------------------------------
-*STILL A WORK IN PROGRESS*
 -------------------------------------------------
 
 A simple but advanced calculator made using a raspberry pi pico. (Project started on 07/03/2026)
