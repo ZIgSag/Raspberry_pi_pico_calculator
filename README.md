@@ -4,7 +4,7 @@
 *STILL A WORK IN PROGRESS*
 -------------------------------------------------
 
-A simple but advanced calculator made using a raspberry pi pico. (Project started on 08/03/2026)
+A simple but advanced calculator made using a raspberry pi pico. (Project started on 07/03/2026)
 
 The code for this project was written in Arduino IDE in C/C++ and is intended to be uploaded to the Raspberry pi pico through the Arduino IDE software.
 
