@@ -1,7 +1,7 @@
 # Raspberry_pi_pico_calculator
 *STILL A WORK IN PROGRESS*
 -------------------------------------------------
-*TABLE OF CONTENT*
+*-_-_-_-_-_-_-_TABLE OF CONTENT-_-_-_-_-_-_-_*
 -------------------------------------------------
 1) [INTRODUCTION](#introduction)
 2) [FEATURES](#features)
