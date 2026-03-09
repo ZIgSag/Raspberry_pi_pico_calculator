@@ -5,7 +5,8 @@
 -------------------------------------------------
 1) [INTRODUCTION](#introduction)
 2) [FEATURES](#features)
-    • fghfgh
+   
+    • [FEATURES OF THE CALCULATOR WITHOUT THE EXPANSION MODULE](#featureone)
 
 
 
@@ -33,7 +34,7 @@ This project contains 2 types of calculator models:
 -------------------------------------------------------------------------
 ## FEATURES
 
-*##FEATURES OF THE CALCULATOR WITHOUT THE EXPANSION MODULE*
+## FEATURES OF THE CALCULATOR WITHOUT THE EXPANSION MODULE
 -------------------------------------------------------------------------
 1) All basic arithmetic functions such as addtion, substruction, division, multiplication, square root and power.
 2) Ability to work with demical values.
@@ -42,7 +43,7 @@ This project contains 2 types of calculator models:
 
 
 ------------------------------------------------------------------------
-*##FEATURES OF THE CALCULATOR WITH THE EXPANSION MODULE*
+## FEATURES OF THE CALCULATOR WITH THE EXPANSION MODULE
 ------------------------------------------------------------------------
 1) All functions of the regular calculator
    **MAIN FEATURE**
