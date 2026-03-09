@@ -13,7 +13,7 @@
 
 
 -------------------------------------------------
-**INTRODUCTION**
+##INTRODUCTION
 -------------------------------------------------
 
 A simple but advanced calculator made using a raspberry pi pico. (Project started on 07/03/2026)
