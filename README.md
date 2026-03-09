@@ -61,3 +61,4 @@ This project contains 2 types of calculator models:
 -------------------------------------------------
 1) 1x Raspberry pi pico (2 x pico's if you are planning to make the expansion module)
 2) 20 Low profile mechanical keyboard switches (https://it.aliexpress.com/item/1005005783406100.html?spm=a2g0o.order_list.order_list_main.5.663e3696NJjg2b&gatewayAdapt=glo2ita)
+3) 16x2 LCD display with an I2C module (https://it.aliexpress.com/item/1005006100081942.html?spm=a2g0o.order_list.order_list_main.53.663e3696NJjg2b&gatewayAdapt=glo2ita)
