@@ -1,5 +1,5 @@
 # Raspberry_pi_pico_calculator
-*STILL A WORK IN PROGRESS*
+********STILL A WORK IN PROGRESS*******
 -------------------------------------------------
 *TABLE OF CONTENT*
 -------------------------------------------------
