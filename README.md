@@ -8,7 +8,7 @@ A simple but advanced calculator made using a raspberry pi pico. (Project starte
 
 The code for this project was written in Arduino IDE in C/C++ and is intended to be uploaded to the Raspberry pi pico through the Arduino IDE software.
 
-I started making this project just for fun and it turned out to be something more serious than I thought
+I started making this project just for fun and it turned out to be something more serious than I thought.
 Still there might be small bugs and glitches here and there, But I'm doing my best to fix everything.
 
 This project contains 2 types of calculator models:
