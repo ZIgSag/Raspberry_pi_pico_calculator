@@ -6,7 +6,7 @@
 1) [INTRODUCTION](#introduction)
 2) [FEATURES](#features)
    
-    • [FEATURES OF THE CALCULATOR WITHOUT THE EXPANSION MODULE](#featureone)
+    • [FEATURES OF THE CALCULATOR WITHOUT THE EXPANSION MODULE](#features-of-the-calculator-without-the-expansion-module)
 
 
 
