@@ -4,6 +4,8 @@
 *TABLE OF CONTENT*
 -------------------------------------------------
 1) [INTRODUCTION](#introduction)
+2) [FEATURES](#features)
+   • 
 
 
 
@@ -29,7 +31,9 @@ This project contains 2 types of calculator models:
 2) The second model contains a seperate expansion module that can be plugged in to the usb c port that can be found on the bottom of the calculator
 
 -------------------------------------------------------------------------
-*#FEATURES OF THE CALCULATOR WITHOUT THE EXPANSION MODULE*
+## FEATURES
+
+*##FEATURES OF THE CALCULATOR WITHOUT THE EXPANSION MODULE*
 -------------------------------------------------------------------------
 1) All basic arithmetic functions such as addtion, substruction, division, multiplication, square root and power.
 2) Ability to work with demical values.
@@ -38,7 +42,7 @@ This project contains 2 types of calculator models:
 
 
 ------------------------------------------------------------------------
-*#FEATURES OF THE CALCULATOR WITH THE EXPANSION MODULE*
+*##FEATURES OF THE CALCULATOR WITH THE EXPANSION MODULE*
 ------------------------------------------------------------------------
 1) All functions of the regular calculator
    **MAIN FEATURE**
