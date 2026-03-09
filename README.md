@@ -16,14 +16,18 @@ This project contains 2 types of calculator models:
 1) The first model contains just the calculator with all basic functions, the number pad and the screen.
 2) The second model contains a seperate expansion module that can be plugged in to the usb c port that can be found on the bottom of the calculator
 
+-------------------------------------------------------------------------
 *#FEATURES OF THE CALCULATOR WITHOUT THE EXPANSION MODULE*
+-------------------------------------------------------------------------
 1) All basic arithmetic functions such as addtion, substruction, division, multiplication, square root and power.
 2) Ability to work with demical values.
 3) A scrolling display (So you are not limited by the space of a 16x2 LCD).
 4) Custom boot up animation. (Can be modified according to your references).
 
 
+------------------------------------------------------------------------
 *#FEATURES OF THE CALCULATOR WITH THE EXPANSION MODULE*
+------------------------------------------------------------------------
 1) All functions of the regular calculator
    **MAIN FEATURE**
 2) Contains a seperate module which can be plugged in to your regular calculator to add more functionality
