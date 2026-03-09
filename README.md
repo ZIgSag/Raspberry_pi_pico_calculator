@@ -10,7 +10,7 @@
    
     • [FEATURES OF THE CALCULATOR WITH THE EXPANSION MODULE](#features-of-the-calculator-with-the-expansion-module)
 
-
+3) [HARDWARE REQUIREMENTS](#hardware-requirements)
 
 
 
@@ -51,3 +51,8 @@ This project contains 2 types of calculator models:
    **MAIN FEATURE**
 2) Contains a seperate module which can be plugged in to your regular calculator to add more functionality
    (Inside this module contains a separate raspberry pi pico running its own code. but is connected to communicate in serial with your main calculator)
+
+
+-------------------------------------------------
+## HARDWARE REQUIREMENTS
+-------------------------------------------------
