@@ -43,6 +43,7 @@ This project contains 2 types of calculator models:
 2) Ability to work with demical values.
 3) A scrolling display (So you are not limited by the space of a 16x2 LCD).
 4) Custom boot up animation. (Can be modified according to your references).
+5) Rechargable via USB C.
 
 
 ------------------------------------------------------------------------
