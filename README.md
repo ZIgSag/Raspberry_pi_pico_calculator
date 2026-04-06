@@ -67,10 +67,12 @@ This project contains 2 types of calculator models:
 
 4) 1 x 105568 LiPo Battery 3.7V 5000mAh (https://it.aliexpress.com/item/1005009226410684.html?spm=a2g0o.order_list.order_list_main.16.611e36961KwMcX&gatewayAdapt=glo2ita)
 
-5) Male and Female USB C connectors (Only need for the Calculator with the expansion module) (https://it.aliexpress.com/item/1005004301569975.html?spm=a2g0o.order_list.order_list_main.23.663e3696NJjg2b&gatewayAdapt=glo2ita)
+5) 1 x Charging module + boost step up module (https://it.aliexpress.com/item/1005005656423941.html?spm=a2g0o.order_list.order_list_main.10.611e36961KwMcX&gatewayAdapt=glo2ita)
 
-6) 22 AWG electrical wires (https://it.aliexpress.com/item/1005008664132121.html?spm=a2g0o.order_list.order_list_main.41.663e3696NJjg2b&gatewayAdapt=glo2ita)
+6) Male and Female USB C connectors (Only need for the Calculator with the expansion module) (https://it.aliexpress.com/item/1005004301569975.html?spm=a2g0o.order_list.order_list_main.23.663e3696NJjg2b&gatewayAdapt=glo2ita)
 
-7) 1x ON/OFF Switch (https://it.aliexpress.com/item/1005007798133277.html?spm=a2g0o.order_list.order_list_main.65.663e3696NJjg2b&gatewayAdapt=glo2ita)
+7) 22 AWG electrical wires (https://it.aliexpress.com/item/1005008664132121.html?spm=a2g0o.order_list.order_list_main.41.663e3696NJjg2b&gatewayAdapt=glo2ita)
 
-8) A variety of screws and bolts (https://it.aliexpress.com/item/1005007123615498.html?spm=a2g0o.order_list.order_list_main.71.663e3696NJjg2b&gatewayAdapt=glo2ita)
+8) 1x ON/OFF Switch (https://it.aliexpress.com/item/1005007798133277.html?spm=a2g0o.order_list.order_list_main.65.663e3696NJjg2b&gatewayAdapt=glo2ita)
+
+9) A variety of screws and bolts (https://it.aliexpress.com/item/1005007123615498.html?spm=a2g0o.order_list.order_list_main.71.663e3696NJjg2b&gatewayAdapt=glo2ita)
