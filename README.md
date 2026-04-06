@@ -83,3 +83,6 @@ This project contains 2 types of calculator models:
 ------------------------------------------------------------------------
 ## WIRING DIAGRAM
 ------------------------------------------------------------------------
+1) Wiring diagram for the calculator without the expansion module
+![image alt](
+   
