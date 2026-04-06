@@ -83,11 +83,10 @@ This project contains 2 types of calculator models:
 ------------------------------------------------------------------------
 ## WIRING DIAGRAM
 ------------------------------------------------------------------------
-1) Wiring diagram for the calculator without the expansion module
+1) **Wiring diagram for the calculator without the expansion module**
 ![image alt](https://github.com/ZIgSag/Raspberry_pi_pico_calculator/blob/main/circuit%20(1).png?raw=true)
 
-2) Wiring diagram for the calculator with the expansion module
-![image alt](<img width="1080" height="700" alt="image" src="https://github.com/user-attachments/assets/241868f9-26a9-4b4f-b34f-adab58f2baec" />
-)
+2) **Wiring diagram for the calculator with the expansion module**
+![image alt](https://github.com/ZIgSag/Raspberry_pi_pico_calculator/blob/main/circuit.png?raw=true)
 
    
