@@ -11,7 +11,7 @@
     • [FEATURES OF THE CALCULATOR WITH THE EXPANSION MODULE](#calculator-with-the-expansion-module)
 
 3) [HARDWARE REQUIREMENTS](#hardware-requirements)
-4) [WIRING DIAGRAM]
+4) [WIRING DIAGRAM](#wiring-diagram)
 
 
 
@@ -78,3 +78,8 @@ This project contains 2 types of calculator models:
 8) 1x ON/OFF Switch (https://it.aliexpress.com/item/1005007798133277.html?spm=a2g0o.order_list.order_list_main.65.663e3696NJjg2b&gatewayAdapt=glo2ita)
 
 9) A variety of screws and bolts (https://it.aliexpress.com/item/1005007123615498.html?spm=a2g0o.order_list.order_list_main.71.663e3696NJjg2b&gatewayAdapt=glo2ita)
+
+
+------------------------------------------------------------------------
+## WIRING DIAGRAM
+------------------------------------------------------------------------
