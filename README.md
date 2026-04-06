@@ -11,6 +11,7 @@
     • [FEATURES OF THE CALCULATOR WITH THE EXPANSION MODULE](#calculator-with-the-expansion-module)
 
 3) [HARDWARE REQUIREMENTS](#hardware-requirements)
+4) [WIRING DIAGRAM]
 
 
 
