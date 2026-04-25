@@ -12,7 +12,7 @@
 
 3) [HARDWARE REQUIREMENTS](#hardware-requirements)
 4) [WIRING DIAGRAM](#wiring-diagram)
-5) [STL FILES](#stl_files)
+5) [STL FILES](#stl-files)
 
 
 
