@@ -34,6 +34,8 @@ This project contains 2 types of calculator models:
 1) The first model contains just the calculator with all basic functions, the number pad and the screen.
 2) The second model contains a seperate expansion module that can be plugged in to the usb c port that can be found on the bottom of the calculator (*STILL WORK IN PROGRESS*)
 
+![image alt](https://github.com/ZIgSag/Raspberry_pi_pico_calculator/blob/main/IMG_20260425_102621.jpg)
+
 -------------------------------------------------------------------------
 *************************************************************************************************************************************
 ## FEATURES 
