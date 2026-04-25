@@ -12,7 +12,7 @@
 
 3) [HARDWARE REQUIREMENTS](#hardware-requirements)
 4) [WIRING DIAGRAM](#wiring-diagram)
-
+5) [STL FILES](#stl_files)
 
 
 
@@ -88,5 +88,11 @@ This project contains 2 types of calculator models:
 
 2) **Wiring diagram for the calculator with the expansion module**
 ![image alt](https://github.com/ZIgSag/Raspberry_pi_pico_calculator/blob/main/circuit_with_expansion.png)
+
+
+
+------------------------------------------------------------------------
+## STL FILES
+------------------------------------------------------------------------
 
    
