@@ -1,5 +1,4 @@
 # Raspberry_pi_pico_calculator
-*-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_STILL A WORK IN PROGRESS-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*
 -------------------------------------------------
 *TABLE OF CONTENT*
 -------------------------------------------------
@@ -32,7 +31,7 @@ Still there might be small bugs and glitches here and there, But I'm doing my be
 This project contains 2 types of calculator models:
 
 1) The first model contains just the calculator with all basic functions, the number pad and the screen.
-2) The second model contains a seperate expansion module that can be plugged in to the usb c port that can be found on the bottom of the calculator
+2) The second model contains a seperate expansion module that can be plugged in to the usb c port that can be found on the bottom of the calculator (##STILL WORK IN PROGRESS)
 
 -------------------------------------------------------------------------
 *************************************************************************************************************************************
