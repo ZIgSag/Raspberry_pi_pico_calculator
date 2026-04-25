@@ -94,5 +94,5 @@ This project contains 2 types of calculator models:
 ------------------------------------------------------------------------
 ## STL FILES
 ------------------------------------------------------------------------
-
+You can download all the design files at (https://www.printables.com/model/1700606-calculator)
    
