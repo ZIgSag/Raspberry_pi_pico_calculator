@@ -13,6 +13,7 @@
 3) [HARDWARE REQUIREMENTS](#hardware-requirements)
 4) [WIRING DIAGRAM](#wiring-diagram)
 5) [STL FILES](#stl-files)
+6) [GUIDE](#guide)
 
 
 
@@ -98,4 +99,9 @@ This project contains 2 types of calculator models:
 ------------------------------------------------------------------------
 You can download all the design files at (https://www.printables.com/model/1700606-calculator)
 or at (https://github.com/ZIgSag/Raspberry_pi_pico_calculator/releases/tag/Release_version_1)
-   
+
+
+------------------------------------------------------------------------
+## GUIDE
+------------------------------------------------------------------------
+* 
