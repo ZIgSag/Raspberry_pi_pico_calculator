@@ -45,7 +45,7 @@ This project contains 2 types of calculator models:
 1) All basic arithmetic functions such as addtion, substruction, division, multiplication, square root and power.
 2) Ability to work with demical values.
 3) A scrolling display (So you are not limited by the space of a 16x2 LCD).
-4) Custom boot up animation. (Can be modified according to your references).
+4) Custom boot up animation. (Can be modified according to your preferences).
 5) Rechargable via USB C.
 
 
