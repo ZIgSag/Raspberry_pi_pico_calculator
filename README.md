@@ -104,6 +104,6 @@ or at (https://github.com/ZIgSag/Raspberry_pi_pico_calculator/releases/tag/Relea
 ------------------------------------------------------------------------
 ## GUIDE
 ------------------------------------------------------------------------
-* It is recommended to get the **GERBER FILES AND THE DRILL FILES** which can be found in the releases and to order the PCB via an online PCB printing service suuch as "JLCPCB"
+* It is recommended to get the **GERBER FILES AND THE DRILL FILES** which can be found in the releases and to order the PCB via an online PCB printing service such as "JLCPCB"
   
 ***NOTE : It is absolutely not necessary to have the pcb and it will definitely work without the pcb but having the pcb will make it more organized, will be easier for debugging, will make it easier to work with and overall reduce the amount of wires and the amount of soldering required***
